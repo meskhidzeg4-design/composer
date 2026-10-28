@@ -1,5 +1,5 @@
 # Config
-
+owner Giorgi Meskhidze
 This chapter will describe the `config` section of the `composer.json`
 [schema](04-schema.md).
 
